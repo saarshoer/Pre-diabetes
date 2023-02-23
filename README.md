@@ -10,4 +10,5 @@ matplotlib (v3.4.3)
 seaborn (v0.12.0)
 
 Article supplementary files are the input files and should be placed in the same directory as the code.
+
 The expected output is the article figures and should take a couple of minutes to produce.
