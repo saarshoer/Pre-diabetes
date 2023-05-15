@@ -8,7 +8,8 @@ mne (v0.23.0)
 statannot (v0.2.3)
 matplotlib (v3.4.3)
 seaborn (v0.12.0)
+plotly (v4.5.4)
 
 Article supplementary files are the input files and should be placed in the same directory as the code.
 
-The expected output is the article figures and should take a couple of minutes to produce.
+The expected output is the article figures and should take a few minutes to produce.
