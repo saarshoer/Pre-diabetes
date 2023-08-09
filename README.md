@@ -11,6 +11,6 @@ matplotlib (v3.4.3)
 seaborn (v0.12.0)
 plotly (v4.5.4)
 
-Article supplementary files are the input files and should be placed in the same directory as the code.
+Article supplementary files are the input and should be placed in the same directory as the code.
 
 The expected output is the article figures and should take a few minutes to produce.
